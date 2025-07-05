@@ -1,0 +1,1 @@
+rsync -avz --delete dist kkerae@hetzner:/usr/home/kkerae/public_html/kfs/

@@ -8,7 +8,7 @@ interface QAPair {
   question_number: number
   question: string
   answer: string
-  sectionTitle?: string
+  sectionTitle: string
 }
 
 interface Section {
@@ -134,9 +134,11 @@ function App() {
         {currentQuestion && (
           <div className="flex justify-center mb-6">
             <LearningCard
+              key={currentQuestionIndex}
               question={currentQuestion.question}
               answer={currentQuestion.answer}
               questionNumber={currentQuestion.question_number}
+              topic={currentQuestion.sectionTitle}
             />
           </div>
         )}
