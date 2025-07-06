@@ -119,7 +119,7 @@ function App() {
         <div className="controls mb-6 flex justify-between items-center bg-base-100 rounded-lg p-4">
           <button
             onClick={handleShuffle}
-            className="btn btn-secondary"
+            className="btn btn-accent"
           >
             Karten mischen
           </button>
