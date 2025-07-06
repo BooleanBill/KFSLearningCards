@@ -19,7 +19,7 @@ export default function LearningCard({ question, answer, questionNumber, topic }
         <div className="relative w-full max-w-2xl aspect-video cursor-pointer perspective-1000" onClick={handleFlip}>
             <div className={`relative w-full h-full transition-transform duration-500 transform-style-preserve-3d ${isFlipped ? 'rotate-y-180' : ''}`}>
                 {/* Front side */}
-                <div className="absolute inset-0 w-full h-full bg-base-100 rounded-lg shadow-md py-6 px-4 backface-hidden">
+                <div className="absolute inset-0 w-full h-full bg-base-100 rounded-lg shadow-md pt-6 pb-10 px-4 backface-hidden">
                     <div className="h-full flex flex-col justify-center items-center text-center">
                         <div className="absolute top-2 right-2 text-xs text-info">{topic} #{questionNumber}</div>
                         <h2 className="text-xl font-semibold mb-4 text-base-content">Frage</h2>
