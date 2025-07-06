@@ -98,11 +98,11 @@ function App() {
         <h1 className="text-3xl font-bold mb-8 text-center">KFS Lernkarten App</h1>
 
         {/* Section selector */}
-        <div className="w-full flex-col flex justify-center items-center bg-white dark:bg-gray-700 rounded-lg p-4 mb-6">
-          <h2 className="text-xl font-semibold text-black dark:text-white mb-4">Thema wählen:</h2>
+        <div className="w-full flex-col flex justify-center items-center bg-base-100 rounded-lg p-4 mb-6">
+          <h2 className="text-xl font-semibold text-base-content mb-4">Thema wählen:</h2>
           <select
             id="section-selector"
-            className="bg-white text-black p-2 rounded-sm border-1 border-gray-300"
+            className="bg-base-100 text-base-content p-2 rounded-sm border-1 border-base-content"
             value={currentSection}
             onChange={(e) => handleSectionChange(e.target.value)}
           >
@@ -116,14 +116,14 @@ function App() {
         </div>
 
         {/* Controls */}
-        <div className="controls mb-6 flex justify-between items-center bg-white dark:bg-gray-700 rounded-lg p-4">
+        <div className="controls mb-6 flex justify-between items-center bg-base-100 rounded-lg p-4">
           <button
             onClick={handleShuffle}
-            className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mr-4"
+            className="btn btn-secondary"
           >
             Karten mischen
           </button>
-          <span className="text-gray-600 dark:text-white">
+          <span className="text-base-content">
             {shuffledQuestions.length > 0 && (
               `Karte ${currentQuestionIndex + 1} von ${shuffledQuestions.length}`
             )}
@@ -149,14 +149,14 @@ function App() {
             <button
               onClick={goToPreviousQuestion}
               disabled={currentQuestionIndex === 0}
-              className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded disabled:bg-gray-300 disabled:cursor-not-allowed"
+              className="btn btn-primary"
             >
               Vorherige
             </button>
             <button
               onClick={goToNextQuestion}
               disabled={currentQuestionIndex === shuffledQuestions.length - 1}
-              className="bg-gray-500 hover:bg-gray-700 text-white font-bold py-2 px-4 rounded disabled:bg-gray-300 disabled:cursor-not-allowed"
+              className="btn btn-primary"
             >
               Nächste
             </button>

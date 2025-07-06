@@ -1,1 +1,1 @@
-rsync -avz --delete dist kkerae@hetzner:/usr/home/kkerae/public_html/kfs/
+npm run build && rsync -avz --delete dist kkerae@hetzner:/usr/home/kkerae/public_html/kfs/
