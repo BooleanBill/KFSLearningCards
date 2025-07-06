@@ -34,7 +34,7 @@ export default function LearningCard({ question, answer, questionNumber, topic }
                         <div className="absolute top-2 right-2 text-xs text-info">{topic} #{questionNumber}</div>
                         <h2 className="text-xl font-semibold mb-4 text-base-content">Antwort</h2>
                         <p className="text-base-content overflow-y-auto px-4 mb-auto">{answer}</p>
-                        <div className="absolute bottom-3 left-0 w-full text-center text-xs text-info">Klicken für Frage</div>
+                        <div className="absolute bottom-2 left-0 w-full text-center text-xs text-info">Klicken für Frage</div>
                     </div>
                 </div>
             </div>
