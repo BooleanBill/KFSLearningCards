@@ -5,108 +5,108 @@
       "qa_pairs": [
         {
           "question_number": 1,
-          "question": "Unterscheidung zwischen Selbstmanagement und Zeitmanagement",
-          "answer": "Selbstmanagement umfasst Techniken und Strategien zur persönlichen Entwicklung, Zielsetzung und Selbstregulation, während Zeitmanagement speziell auf die Planung und Kontrolle der Zeit abzielt."
+          "question": "Unterscheiden Sie Selbst- und Zeitmanagement voneinander. Geben Sie je ein Beispiel für eine Methode aus dem jeweiligen Bereich!",
+          "answer": "Selbstmanagement: Die Fähigkeit, die eigene Persönlichkeit, Ziele, Werte und Ressourcen (inkl. Zeit!) zu steuern, um effektiv und zielorientiert zu leben. Es geht um die Gesamtsteuerung deiner Person. \nBeispiel-Methode: SMART-Ziele (Spezifisch, Messbar, Attraktiv, Relevant, Terminiert) – hilft, persönliche Ziele klar zu definieren und zu verfolgen. \n\nZeitmanagement: Die Fähigkeit, die verfügbare Zeit zu planen, zu organisieren und zu kontrollieren, um Aufgaben effizient zu erledigen. Es ist ein Teilbereich des Selbstmanagements. \nBeispiel-Methode: Eisenhower-Matrix (Wichtig/Dringend) – hilft, Aufgaben nach Priorität zu ordnen und zu entscheiden, was wann zu tun ist."
         },
         {
           "question_number": 2,
           "question": "Priorisierung nach ABC",
-          "answer": "Die ABC-Priorisierung basiert auf den Dimensionen Wichtigkeit und Dringlichkeit. Eine D-Aufgabe könnte eine unwichtige und nicht dringende Aufgabe sein. "
+          "answer": "Wichtig und Dringend: A sofort, B terminieren (nicht dringend), C delegieren (nicht wichtig), D Papierkorb (nicht wichtig und nicht dringend)"
         },
         {
           "question_number": 3,
-          "question": "Unterschied zwischen dringenden und wichtigen Aufgaben",
-          "answer": "Dringende Aufgaben erfordern sofortige Aufmerksamkeit, während wichtige Aufgaben langfristige Bedeutung haben. "
+          "question": "Erläutern Sie den Unterschied zwischen dringenden und wichtigen Aufgaben. Warum ist es wichtig, diese zu unterscheiden? ",
+          "answer": "Dringende Aufgaben erfordern sofortige Aufmerksamkeit, während wichtige Aufgaben langfristige Bedeutung haben. \nWarum es wichtig ist, diese zu unterscheiden: \n- Dringende Aufgaben können sofortige Reaktionen erfordern, während wichtige Aufgaben langfristige Bedeutung haben."
         },
         {
           "question_number": 4,
-          "question": "Pareto-Prinzip",
-          "answer": "Das Pareto-Prinzip besagt, dass 80% der Ergebnisse mit 20% des Aufwands erreicht werden.  Anwendung: Konzentrieren Sie sich auf die 20% der Aufgaben, die 80% der Ergebnisse liefern.  Beispiel: Identifizieren Sie die wichtigsten Aufgaben, die den größten Einfluss auf Ihre Ziele haben, und priorisieren Sie diese.  Vermeiden Sie es, zu viel Zeit mit weniger wichtigen Aufgaben zu verbringen. "
+          "question": "Was ist mit dem Pareto-Prinzip gemeint und beschreiben Sie eine praktische Anwendung?",
+          "answer": "Das Pareto-Prinzip besagt, dass 80% der Ergebnisse mit 20% des Aufwands erreicht werden. \nAnwendung: Konzentrieren Sie sich auf die 20% der Aufgaben, die 80% der Ergebnisse liefern. \nBeispiel: Identifizieren Sie die wichtigsten Aufgaben, die den größten Einfluss auf Ihre Ziele haben, und priorisieren Sie diese. \nVermeiden Sie es, zu viel Zeit mit weniger wichtigen Aufgaben zu verbringen."
         },
         {
           "question_number": 5,
-          "question": "Entgrenzung der Arbeit",
-          "answer": "Entgrenzung der Arbeit bezieht sich auf die zunehmende Verschmelzung von Arbeits- und Privatleben. "
+          "question": "Was ist mit Entgrenzung der Arbeit gemeint?",
+          "answer": "Auflösung/Verwischung der Grenzen von Arbeit und Freizeit."
         },
         {
           "question_number": 6,
-          "question": "Ursachen von Prokrastination",
-          "answer": "Ursachen können Angst vor Versagen, mangelnde Motivation, unklare Ziele oder Überforderung sein. "
+          "question": "Welche Ursachen kann Aufschieberistis/Prokrastination haben?",
+          "answer": "Prokrastination bezeichnet allgemein das Aufschieben von Tätigkeiten, obwohl sie als wichtig und dringend eingestuft werden. \nUrsachen in der Person: \n- Geringe Gewissenhaftigkeit \n- Mangelnde Selbstkontrolle \n- Gering ausgeprägtes Selbstvertrauen \nProbleme mit Prioritätensetzung und Zeitplanung. \nUrsachen in der Aufgabe: \n- Mangelnde Attraktivität \n- Attraktive Alternativen \n- Komplexität von Aufgaben"
         },
         {
           "question_number": 7,
-          "question": "Self-handicapping Phänomen",
+          "question": "Was ist das Self-handicapping Phänomen?",
           "answer": "Self-handicapping ist eine Strategie, bei der Menschen Hindernisse schaffen oder finden, um mögliche Misserfolge auf externe Faktoren zurückzuführen. "
         },
         {
           "question_number": 8,
-          "question": "Bedeutung der Persönlichkeit im Selbstmanagement",
-          "answer": "Die Kenntnis der eigenen Persönlichkeit hilft dabei, Stärken und Schwächen zu verstehen, um effektivere Selbstmanagement-Strategien zu entwickeln. "
+          "question": "Warum kann es wichtig sein, im Rahmen von Selbstmanagement seine Persönlichkeit zu kennen?",
+          "answer": "Es hilft dabei, Stärken und Schwächen zu verstehen, um effektivere Selbstmanagement-Strategien zu entwickeln. \nEs lassen sich daraus bestimmte Muster des Erlebens und Verhaltens erkennen und erklären.\n Daraus lässt sich dann ableiten: Welche Aufgaben im Studium/ im Beruf/ im Privatleben könnten eine Herausforderung für mich darstellen."
         },
         {
           "question_number": 9,
-          "question": "Faktoren der Motivation",
-          "answer": "Motivation beruht auf intrinsischen Faktoren (interne Motivation) und extrinsischen Faktoren (externe Anreize). "
+          "question": "Auf welchen 2 Faktoren beruht Motivation?",
+          "answer": "Motivation beruht auf intrinsischen Faktoren (in der Person / interne Motivation / Motive) und extrinsischen Faktoren (in der Situation / externe Anreize). "
         },
         {
           "question_number": 10,
-          "question": "Motive",
-          "answer": "Beispiele für Motive sind Leistungsmotivation, Machtmotivation und Zugehörigkeitsmotivation. "
+          "question": "Welche Motive kennen Sie?",
+          "answer": "Leistungsmotiv, Machtmotiv und Anschlussmotiv (Zugehörigkeitsmotiv). "
         },
         {
           "question_number": 11,
-          "question": "Einfluss von Werten",
+          "question": "Wie beeinflussen uns Werte?",
           "answer": "Werte beeinflussen unsere Entscheidungen, Verhaltensweisen und Prioritäten, indem sie als Richtlinien für unser Handeln dienen. "
         },
         {
           "question_number": 12,
-          "question": "Werte",
-          "answer": "Beispiele für Werte sind Ehrlichkeit, Respekt, Verantwortung und Loyalität. "
+          "question": "Welche Werte kennen Sie?",
+          "answer": "Beispiele für Werte sind Ehrlichkeit, Respekt, Verantwortung, Loyalität, Freiheit, Familie, Fairness, Macht, Ordnung, Toleranz, Gesundheit, Freundschaft, Zuverlässigkeit etc. "
         },
         {
           "question_number": 13,
-          "question": "Unterschied zwischen Werten und Zielen",
-          "answer": "Werte sind grundlegende Überzeugungen, die unser Handeln leiten, während Ziele spezifische Ergebnisse sind, die wir erreichen möchten. "
+          "question": "Unterscheiden Sie Werte und Ziele voneinander und geben Sie jeweils ein Beispiel!",
+          "answer": "Werte sind deine grundlegenden Überzeugungen und Prinzipien, die dein Handeln leiten. Sie sind wie ein innerer Kompass. \nBeispiel: Ehrlichkeit (Du möchtest immer ehrlich sein).\n\nZiele sind konkrete, messbare Vorhaben, die du erreichen möchtest. Sie sind spezifische Meilensteine.\nBeispiel: Einen Marathon laufen (Du hast vor, den Marathon zu beenden)."
         },
         {
           "question_number": 14,
-          "question": "Unterschied zwischen Intelligenz und Kreativität",
-          "answer": "Intelligenz bezieht sich auf die Fähigkeit, Informationen zu verstehen und zu nutzen, während Kreativität die Fähigkeit ist, neue und innovative Ideen zu entwickeln. "
+          "question": "Was ist der Unterschied zwischen Intelligenz und Kreativität?",
+          "answer": "Intelligenz zur effektiven Lösung vorgegebener Probleme mit bekannten Lösungen befähigt, während Kreativität die Fähigkeit zu schöpferischem Denken und Handeln ist."
         },
         {
           "question_number": 15,
-          "question": "Soziale Kompetenz",
-          "answer": "Soziale Kompetenz umfasst die Fähigkeit, effektiv mit anderen zu kommunizieren und Beziehungen zu gestalten. "
+          "question": "Was ist genau mit sozialer Kompetenz gemeint?",
+          "answer": "Balance zwischen Durchsetzungsfähigkeit und Beziehungsfähigkeit - soziale Sensitivität (verstehen) und Handlungskompetenz (schwierige Situationen meistern)"
         },
         {
           "question_number": 16,
-          "question": "Emotionale Kompetenz",
-          "answer": "Emotionale Kompetenz bezieht sich auf die Fähigkeit, eigene und fremde Emotionen zu erkennen, zu verstehen und zu steuern. "
+          "question": "Was ist Emotionale Kompetenz?",
+          "answer": "die Fähigkeit zum Umgang mit den eigenen, aber auch den Emotionen anderer."
         },
         {
           "question_number": 17,
-          "question": "Zielorientierungen",
-          "answer": "Es gibt Leistungsziele, Lernziele und Vermeidungsziele. "
+          "question": "Welche Zielorientierungen unterscheidet man?",
+          "answer": "Zielrichtung: (Annährungsziele vs. Vermeidungsziele) \nZielinhalt: (Leistungsziele vs. Lernziele) "
         },
         {
           "question_number": 18,
-          "question": "Zuschreibungen",
-          "answer": "Man unterscheidet interne (z.B., eigene Fähigkeiten) und externe Zuschreibungen (z.B., Glück). "
+          "question": "Welche zwei Zuschreibungen unterscheidet man, wenn es darum geht einem Ergebnis oder Handlung eine Ursache zuzuordnen? Wann ist welche Zuschreibung für eine Person hilfreich/ nicht hilfreich – geben Sie ein Beispiel!",
+          "answer": "Man unterscheidet 2 Arten, wie wir Ursachen zuordnen: \nIntern (personal): Ursache liegt bei der Person (z.B. Fähigkeit, Anstrengung). \nExtern (situational): Ursache liegt bei den Umständen (z.B. Zufall, Schwierigkeit). \n\nWann hilfreich/nicht hilfreich? \nIntern: \n+ bei Erfolg: Stärkt Selbstvertrauen. \n- bei Misserfolg: Demotiviert. \nExtern: \n+ bei Misserfolg: Schützt Selbstwertgefühl. \n- bei Erfolg: Wertet eigene Leistung ab. \n\nBeispiel: Schlechte Note \nHilfreich (extern): \"Prüfung war unfair.\" \nNicht hilfreich (intern): \"Ich bin zu dumm.\""
         },
         {
           "question_number": 19,
-          "question": "Resilienz",
-          "answer": "Resilienz ist die Fähigkeit, sich von Rückschlägen zu erholen und Herausforderungen erfolgreich zu bewältigen. "
+          "question": "Was ist mit Resilienz gemeint?",
+          "answer": "Resilienz ist die Fähigkeit, sich von Rückschlägen zu erholen und Herausforderungen erfolgreich zu bewältigen."
         },
         {
           "question_number": 20,
-          "question": "Selbsterfüllende Prophezeiung",
-          "answer": "Eine selbsterfüllende Prophezeiung ist eine Erwartung, die sich selbst erfüllt, weil sie das Verhalten beeinflusst.  Beispiel: Prüfungsangst. Erwartung: Der Student erwartet, dass er die Prüfung nicht besteht.  Verhalten: Aufgrund dieser Erwartung fühlt er sich ängstlich und gestresst.  Er kann sich nicht gut auf den Lernstoff konzentrieren und verbringt weniger Zeit mit dem Lernen, weil er denkt, dass es ohnehin keinen Sinn hat.  Ergebnis: Weil er sich nicht ausreichend vorbereitet hat, besteht er die Prüfung tatsächlich nicht. "
+          "question": "Was meint man mit selbsterfüllender Prophezeiung? Geben Sie ein Beispiel!",
+          "answer": "Eine selbsterfüllende Prophezeiung ist eine Erwartung, die sich selbst erfüllt, weil sie das Verhalten beeinflusst. \nBeispiel: Prüfungsangst. \nErwartung: Der Student erwartet, dass er die Prüfung nicht besteht. \nVerhalten: Aufgrund dieser Erwartung fühlt er sich ängstlich und gestresst. \nEr kann sich nicht gut auf den Lernstoff konzentrieren und verbringt weniger Zeit mit dem Lernen, weil er denkt, dass es ohnehin keinen Sinn hat. \nErgebnis: Weil er sich nicht ausreichend vorbereitet hat, besteht er die Prüfung tatsächlich nicht. "
         },
         {
           "question_number": 21,
-          "question": "SMART Ziele",
-          "answer": "SMART-Ziele sind spezifisch, messbar, erreichbar, relevant und zeitgebunden.  Beispiel: Verbesserung der beruflichen Fähigkeiten durch Teilnahme an einem Kurs.  Spezifisch: Ich möchte meine Fähigkeiten in Projektmanagement verbessern, indem ich einen zertifizierten Online-Kurs absolvieren.  Messbar: Ich werde den Kurs erfolgreich abschließen und das Zertifikat erwerben, um meine neuen Fähigkeiten nachzuweisen.  Erreichbar: Ich habe die Zeit und die Ressourcen, um mich für den Kurs anzumelden und die notwendige Zeit pro Woche zu investieren, um die Kursinhalte zu bearbeiten.  Relevant: Die Verbesserung meiner Projektmanagement-Fähigkeiten wird mir helfen, in meiner aktuellen Position effektiver zu arbeiten und meine Karrierechancen zu erhöhen.  Zeitgebunden: Ich möchte den Kurs innerhalb der nächsten sechs Monate abschließen. "
+          "question": "Was ist damit gemeint, sich smart Ziele zu setzen? Geben Sie ein Beispiel!",
+          "answer": "spezifisch, messbar, anspornend, realistisch, terminiert. \n\"Bis zum 30. April habe ich mein tägliches Lernpensum für die Nachbereitung der Vorlesungsinhalte auf 1 Stunde am Tag erhöht.\""
         },
         {
           "question_number": 22,
