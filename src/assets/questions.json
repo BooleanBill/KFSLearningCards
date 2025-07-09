@@ -10,8 +10,8 @@
         },
         {
           "question_number": 2,
-          "question": "Priorisierung nach ABC",
-          "answer": "Wichtig und Dringend: A sofort, B terminieren (nicht dringend), C delegieren (nicht wichtig), D Papierkorb (nicht wichtig und nicht dringend)"
+          "question": "Priorisierung nach ABC läuft auf welchen 2 Dimensionen? Was könnte eine D-Aufgabe sein?",
+          "answer": "Wichtig und Dringend: A sofort, B terminieren (nicht dringend), C delegieren (nicht wichtig), D Papierkorb (nicht wichtig und nicht dringend) \n Beispiel für eine D-Aufgabe: \"Social Media überprüfen\""
         },
         {
           "question_number": 3,
@@ -106,32 +106,37 @@
         {
           "question_number": 21,
           "question": "Was ist damit gemeint, sich smart Ziele zu setzen? Geben Sie ein Beispiel!",
-          "answer": "spezifisch, messbar, anspornend, realistisch, terminiert. \n\"Bis zum 30. April habe ich mein tägliches Lernpensum für die Nachbereitung der Vorlesungsinhalte auf 1 Stunde am Tag erhöht.\""
+          "answer": "Spezifisch, Messbar, Attraktiv (Erreichbar), Realistisch, Terminiert. \nBeispiel: \"Ich werde in den nächsten 3 Monaten dreimal pro Woche für mindestens 30 Minuten im Fitnessstudio Krafttraining machen, um meine allgemeine Fitness zu verbessern.\""
         },
         {
           "question_number": 22,
-          "question": "ALPEN-Methode",
-          "answer": "Die ALPEN-Methode umfasst die Aspekte Aufgaben aufschreiben, Länge schätzen, Pufferzeiten einplanen, Entscheidungen treffen und Nachkontrolle. "
+          "question": "Welche Aspekte von Selbstmanagement berücksichtigt die ALPEN-Methode?  ",
+          "answer": "Die ALPEN-Methode umfasst die Aspekte Aufgaben aufschreiben, Länge schätzen, Pufferzeiten einplanen, Entscheidungen treffen und Nachkontrolle.\n Sie hilft dabei, den Tag zu planen, Prioritäten zu setzen und die eigene Zeit effektiv zu nutzen."
         },
         {
           "question_number": 23,
-          "question": "Innere Antreiber",
-          "answer": "Beispiele für innere Antreiber sind Perfektionismus, Helfersyndrom oder der Wunsch nach Anerkennung. "
+          "question": "Benennen Sie innere Antreiber!",
+          "answer": "- Innerer Perfektionist: „Mach deine Arbeit perfekt!“ \n- Innerer Antreiber: „Mach deine Arbeit noch schneller!“ \n- Innerer Ehrgeizling: „Streng dich ordentlich an!“ \n- Innerer Schmeichler: „Mach es allen recht!“ \n- Innerer Held: „Du musst stark sein!“"
         },
         {
           "question_number": 24,
-          "question": "Tagesplanung mit kurzfristigen und langfristigen Aufgaben",
+          "question": "Wie planen Sie Ihren Tag, wenn Sie sowohl kurzfristige dringende Aufgaben als auch langfristige wichtige Aufgaben zu bewältigen haben?",
           "answer": "Eine effektive Tagesplanung umfasst die Priorisierung von Aufgaben, das Einplanen von Pufferzeiten und die regelmäßige Überprüfung der Fortschritte. "
         },
         {
           "question_number": 25,
-          "question": "Zeitdiebe",
-          "answer": "Zeitdiebe sind Aktivitäten oder Gewohnheiten, die uns von wichtigen Aufgaben ablenken und unsere Produktivität beeinträchtigen.  Sie können sowohl externer als auch interner Natur sein und führen oft dazu, dass wir weniger effizient arbeiten.  Beispiele für häufige Zeitdiebe und Strategien, um sie zu identifizieren und zu eliminieren: Soziale Medien und Internet: Beschreibung: Ständiges Überprüfen von sozialen Medien, Nachrichten-Websites oder anderen Online-Ablenkungen.  Lösung: Setzen Sie sich feste Zeiten für die Nutzung sozialer Medien und verwenden Sie Apps oder Browser-Erweiterungen, um den Zugang zu blockieren.  E-Mails: Beschreibung: Häufiges Überprüfen und Beantworten von E-Mails, die nicht dringend sind.  Lösung: Planen Sie feste Zeiten für das Überprüfen und Beantworten von E-Mails ein und deaktivieren Sie Benachrichtigungen.  Unklare Ziele und Prioritäten: Beschreibung: Fehlende klare Ziele und Prioritäten führen zu ineffizientem Arbeiten und Zeitverschwendung.  Lösung: Setzen Sie sich klare, spezifische Ziele und priorisieren Sie Ihre Aufgaben mit Methoden wie der Eisenhower-Matrix. "
+          "question": "Was versteht man unter „Zeitdieben“, und wie kann man diese identifizieren und eliminieren? Nennen Sie Beispiele für häufige Zeitdiebe!",
+          "answer": "Zeitdiebe sind Aktivitäten oder Störungen, die dich von wichtigen Aufgaben ablenken und deine Zeit verschwenden. \nIdentifizieren: Zeittagebuch führen, eigene Ablenkungen beobachten. \nEliminieren: Grenzen setzen (Nein sagen), Ablenkungen blockieren (Handy weg), Arbeitsplatz ordnen, planen. \nBeispiele für häufige Zeitdiebe: Soziale Medien, E-Mails, Unklare Ziele und Prioritäten, Unorganisierter Arbeitsplatz."
         },
         {
           "question_number": 26,
-          "question": "Zeitmanagement",
-          "answer": "Das Zeitmanagement kann durch eine Vielzahl von internen und externen Faktoren beeinflusst werden.  Diese Faktoren können die Effizienz und Effektivität des Zeitmanagements entweder positiv oder negativ beeinflussen.  Interne Faktoren: Persönliche Einstellungen und Gewohnheiten, Motivation und Zielsetzung, Stress und Gesundheit.  Externe Faktoren: Arbeitsumgebung, Unterbrechungen und Ablenkungen, Organisationskultur und -politik. "
+          "question": "Welche internen und externen Faktoren können das Zeitmanagement beeinflussen? ",
+          "answer": "Interne Faktoren (in dir selbst) \n- Prokrastination: Aufschieben von Aufgaben. \n- Perfektionismus: Zu viel Zeit für Details. \n- Multitasking: Zwischen zu vielen Aufgaben springen. \n- Fehlende Priorisierung: Keine klaren Ziele/Wichtigkeit. \n- Müdigkeit/Stress: Geringere Konzentration. \n- Innere Antreiber: Z.B. \"Sei perfekt!\", \"Beeil dich!\" \n\nExterne Faktoren (außerhalb von dir): \n- Unterbrechungen: Kollegen, Telefon, E-Mails. \n- Unstrukturierte Meetings: Lange, unproduktive Besprechungen. \n- Unerwartete Aufgaben: Plötzliche Notfälle. \n- Schlechte Organisation: Chaotischer Arbeitsplatz, fehlende Tools. \n- Lärm/Ablenkungen: Störende Umgebung."
+        },
+        {
+          "question_number": 27,
+          "question": "Wie kann man die Zeit effektiv nutzen? Geben Sie 3 Tipps!",
+          "answer": "1. Priorisieren: Aufgaben nach Wichtigkeit und Dringlichkeit sortieren. \n2. Planen: Zeitfenster für wichtige Aufgaben reservieren. \n3. Eliminieren: Zeitdiebe identifizieren und eliminieren."
         }
       ]
     },
