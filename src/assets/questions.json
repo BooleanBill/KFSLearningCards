@@ -310,93 +310,93 @@
         },
         {
           "question_number": 9,
-          "question": "Empowering Leadership",
-          "answer": "Ziel ist es, Mitarbeiter zu befähigen, eigenverantwortlich zu handeln. "
+          "question": "Was ist Ziel des Empowering Leaderships und auf welchen Dimensionen kann eine Führungskraft auf die Mitarbeiter Einfluss nehmen? ",
+          "answer": "Entwicklung der Self-Leadership-Fähigkeiten der Mitarbeiter. Hohes Vertrauen und Selbstentwicklung fördern. Wenig Kontrolle.\n\n**Dimensionen:**\n\n- **Partizipative Zielsetzung**: Leistungsziele werden gemeinschaftlich vereinbart\n- **Ermutigung zum autonomen Handeln**: Eigenständig nach Lösungen suchen\n- **Ermutigung zur Selbstbelohnung**: Anregen, sich selbst zu belohnen\n- **Ermutigung zum Chancen-Denken**: Team zu optimistischer Grundhaltung motivieren\n- **Förderung der Selbstentwicklung**\n- **Förderung der Teamarbeit**"
         },
         {
           "question_number": 10,
-          "question": "Agile Führung",
-          "answer": "Agile Führung ist flexibel und anpassungsfähig, charakterisiert durch Kooperation und schnelle Entscheidungsfindung. "
+          "question": "Was bedeutet agile Führung und was kennzeichnet Sie?",
+          "answer": "Gekennzeichnet durch flache Hierarchien, experimentelle Grundhaltung, Transparenz, Wissensteilung, iterative Prozesse, Fokus auf Kommunikation. \nFührungsverhalten, dass Agilität fördert. Art innere Haltung, Notwendigkeit zur Teamarbeit und Fehlertoleranz. Agiles Mindset statt strenger Hierarchien "
         },
         {
           "question_number": 11,
           "question": "Ablauf eines Scrums",
-          "answer": "Ein Scrum umfasst die Phasen Planung, Durchführung, Überprüfung und Anpassung (Sprints). \nStichworte:\n Product Backlog – Sprint Planung – Daily Scrums – Review – Retrospektive"
+          "answer": "Ein Scrum umfasst die Phasen Planung, Durchführung, Überprüfung und Anpassung (Sprints). Ablauf:\n 1. Product Owner füllt Product Backlog\n2. Team erstellt Sprint Backlog\n3. Daily 24h Sprints\n4. Sprint Review, um Ergebnis zu überprüfen, Product Backlog anpassen\n5. Sprint Retrospektive, Verbesserungsmöglichkeiten finden"
         },
         {
           "question_number": 12,
-          "question": "Gesunde Führung",
-          "answer": "Gesunde Führung umfasst Aspekte der Prävention von Stress, Förderung von Wohlbefinden und Unterstützung der Work-Life-Balance. "
+          "question": "Welche 3 Aspekte umfasst gesunde Führung im Wesentlichen? ",
+          "answer": "- **Wichtigkeit**: Gesundheit ernst nehmen!\n- **Achtsamkeit**: Auf Gesundheit achten!\n- **Verhalten**: Im Sinne der Gesundheit d. Angestellten handeln"
         },
         {
           "question_number": 13,
-          "question": "Anzeichen von Stress bei Mitarbeitern",
-          "answer": "Stress kann sich durch erhöhte Fehlerquoten, Abwesenheit und Reizbarkeit zeigen. "
+          "question": "Ihr Mitarbeiter/ Sie selbst sind deutlich gestresst, wie wird dies auf der Arbeit sichtbar?",
+          "answer": "Stress kann sich durch erhöhte Fehlerquoten, Abwesenheit und Reizbarkeit zeigen."
         },
         {
           "question_number": 14,
-          "question": "Maßnahmen gegen Stress",
-          "answer": "Führungskräfte können Anforderungen anpassen, Ressourcen bereitstellen und Unterstützung anbieten. "
+          "question": "Führungskräfte nehmen Einfluss auf die Anforderungen, die Stressoren und die Ressourcen der Mitarbeitenden. Wie können Sie für einen gestressten Mitarbeiter konkret Anforderungen und Stressoren verändern und seine Ressourcen aufbauen/erhalten? ",
+          "answer": "- **Anforderungen** (Komplexe und vielfältige Aufgaben) und **Stressoren** (Quantitative oder qualitative Überforderung) temporär senken\n- **Soziale Ressourcen** (Anerkennung, Feedback) und **aufgabenbezogene Ressourcen** steigern"
         },
         {
           "question_number": 15,
-          "question": "Veränderungen durch Digitalisierung",
-          "answer": "Die Digitalisierung führt zu flexibleren Arbeitszeiten, virtuellen Teams und neuen Kommunikationsformen. "
+          "question": "Welche Veränderungen in der Arbeitswelt geschehen durch die Digitalisierung (VUCA)? ",
+          "answer": "- **Volatility (Flüchtigkeit)**: Häufige Veränderung, sprunghafte Entwicklung\n- **Uncertainty (Ungewissheit)**: Nicht nachvollziehbare Änderungen\n- **Complexity (Komplexität)**: Vielfältige Elemente spielen ineinander, Komplexität reduzieren, gemeinsame Vision, Vertrauen, Grundwerte\n- **Ambiguity (Mehrdeutigkeit)**: Unklare, widersprüchliche Umwelt. Hypothesen aufstellen, testen, lernen"
         },
         {
           "question_number": 16,
-          "question": "Methoden zur Verbesserung der virtuellen Teamarbeit",
-          "answer": "Regelmäßige virtuelle Meetings, klare Kommunikationsregeln und Nutzung von Kollaborationstools. "
+          "question": "Welche „Tools“/ Methoden können Sie anwenden, um die virtuelle Teamarbeit zu verbessern? Auf was zielen die Methoden ab?",
+          "answer": "- **Kommunikation**: Raum für Kommunikation schaffen, informelle Gespräche ermöglichen, effizient kommunizieren\n- **Strukturen**: Regeleinhaltung, (Reaktionszeit, Erreichbarkeit), Aufgaben, Rollen, Ziele klären\n- **Vertrauen**: Doppelarbeit vermeiden, Arbeitszuteilung, Ergebnisrückmeldung, kein Faulenzen\n- **Kontrolle**: abgeben, keine Überwachung\n- **Autonomie**: Mitarbeitern Autonomie gewähren, allerdings Aufgabengröße im Blick behalten, nicht überfordern\n- **Diversität**: konstruktive Unterschiede fördern, Regeln festlegen"
         },
         {
           "question_number": 17,
-          "question": "Chancen und Herausforderungen der Digitalisierung",
-          "answer": "Chancen sind erhöhte Effizienz und Flexibilität; Herausforderungen umfassen den Umgang mit Datenüberflutung. "
+          "question": "Welche Chancen und Herausforderungen entstehen durch die Digitalisierung der Arbeitswelt?",
+          "answer": "- **Chancen**: Kostenersparnis, zeitliche Flexibilität, Leistungsverbesserung, Vereinfachung von Prozessen\n- **Herausforderungen**: erhöhter Organisationsaufwand, soziale Schwierigkeiten, durch Abwesenheit, Umgang mit Datenüberflutung"
         },
         {
           "question_number": 18,
-          "question": "Formen der Diversität",
-          "answer": "Diversität kann sich auf Geschlecht, Alter, ethnische Herkunft, kulturelle Hintergrund und Fähigkeiten beziehen. "
+          "question": "Wo findet sich überall Diversität (Formen)? ",
+          "answer": "- **Demografische Merkmale** (Alter, Geschlecht, Kultur)\n- **Know-How und Erfahrung**\n- **Wertesystem** (Glauben, Überzeugungen)\n- **Charakter und Persönlichkeit** (Verhalten, Auftreten)\n- **Sozialer Status** (Autorität, Hierarchie, Netzwerk)"
         },
         {
           "question_number": 19,
-          "question": "Maßnahmen gegen Vorurteile",
-          "answer": "Schulungen, Förderung von Inklusion und Schaffung einer offenen Unternehmenskultur. "
+          "question": "Durch welche Maßnahmen im Betrieb können Vorurteile aufgrund von Diversität abgebaut werden?",
+          "answer": "- **offenen Diskurs fördern**\n- **Inklusion fördern**\n- **Schaffung einer offenen Unternehmenskultur**\n- Förderprogramme zum Thema Diversität \n\n Um also möglichst effektiv gegen Diskriminierung anzugehen, sollte Diversität bewusst angesprochen und sich deren Mehrwert immer wieder bewusstgemacht werden."
         },
         {
           "question_number": 20,
-          "question": "Teamphasen nach Tuckman",
-          "answer": "Die Phasen sind Forming (Orientierung), Storming (Konflikt), Norming (Kooperation), Performing (Leistung) und Adjourning (Auflösung). "
+          "question": "Beschreiben Sie die Teamphasen nach Tuckman.",
+          "answer": "- **Forming**: trifft sich zum ersten Mal, lernt sich kennen\n- **Storming**: Aufgaben und Rollen auskundschaften, Revierkonflikte\n- **Norming**: wächst zusammen, Regeln und Rollen definiert, kleine Entscheidungen individuell getroffen\n- **Performing**: eigentliche Arbeitsphase, alle Fragen geklärt, Team trifft Entscheidungen selbst\n- **Adjourning**: Ablösungsprozess, Rückblende,"
         },
         {
           "question_number": 21,
           "question": "In- und Out-Group",
-          "answer": "In-Group bezieht sich auf die Gruppe, zu der man sich zugehörig fühlt, während Out-Group diejenigen umfasst, die außerhalb dieser Gruppe stehen. "
+          "answer": "- **In-Group**: Gruppen, denen man sich zugehörig fühlt\n- **Out-Group**: Gruppen, denen man sich nicht zugehörig fühlt"
         },
         {
           "question_number": 22,
-          "question": "Direkte Führungsinstrumente",
-          "answer": "Direkte Instrumente umfassen klare Anweisungen und persönliche Rückmeldung. "
+          "question": "Benennen Sie direkte Führungsinstrumente! Warum heißen Sie direkte Führungsinstrumente? ",
+          "answer": "Lob, Anerkennung, Kritik, Feedback, Gespräche, Karriereplanung, Partizipation\n\n Weil die Führungskraft direkten Einfluss auf den Mitarbeiter hat, unabhängig vom Umfeld des Mitarbeiters. "
         },
         {
           "question_number": 23,
-          "question": "Indirekte Führungsinstrumente",
-          "answer": "Indirekte Instrumente umfassen Richtlinien und Kultur, die das Verhalten beeinflussen. "
+          "question": "Benennen Sie indirekte Führungsinstrumente! Warum heißen Sie indirekte Führungsinstrumente?",
+          "answer": "Personalauswahl, Teamgestaltung, Regeln und Normen, Arbeitsumgebung \n\n Betrifft Umwelt des Mitarbeiters"
         },
         {
           "question_number": 24,
-          "question": "Transformationale Führung",
-          "answer": "Transformationale Führung inspiriert und motiviert Mitarbeiter, über ihre eigenen Interessen hinaus zu handeln. "
+          "question": "Was meint transformationale Führung? Und welche Komponenten wirken hierbei auf den Mitarbeiter?",
+          "answer": " Im Mittelpunkt dieser sogenannten transaktionalen Führung stehen äußere Anreize, die in erster Linie die materiellen Bedürfnisse der Mitarbeitenden ansprechen, sowie klare Zielvereinbarungen und Aufgabendelegationen durch die Führungskraft.\nTransformationale Führung lässt sich durch vier Komponenten, die auf die Mitarbeitermotivation wirken, charakterisieren:\n 1.**Idealisierter Einfluss**\n2. **Inspirierende Motivation** \n 3.**Intellektuelle Stimulation**\n 4.**Individuelle Unterstützung**"
         },
         {
           "question_number": 25,
-          "question": "Self-Leadership-Ansatz",
-          "answer": "Der Ansatz geht davon aus, dass Selbstführung durch Selbstbeobachtung, Selbstzielsetzung und Selbstbelohnung erreicht wird. "
+          "question": "Welche zentralen Annahmen enthält der Self-Leadership-Ansatz?",
+          "answer": "Self-Leadership enthält drei zentrale Annahmen:\n1. Die Führungskraft kann sich selbst zielorientiert beeinflussen und dadurch ihre Effektivität steigern.\n2. Mit der Fähigkeit, sich gut selbst zu führen, nimmt die Führungskraft eine Vorbildfunktion ein und regt die Geführten zur Nachahmung an.\n3. Ausgeprägte Self-Leadership-Fähigkeiten ermöglichen es der Führungskraft, ihre Mitarbeitenden bestmöglich darin zu unterstützen, diese ebenfalls zu entwickeln."
         },
         {
           "question_number": 26,
-          "question": "Autosuggestive Strategien für Selbstführung",
-          "answer": "Beispiele sind positive Selbstgespräche, Visualisierung und Affirmationen. "
+          "question": "Benennen Sie 3 autosuggestive Strategien welche von Führungskräften für die gute Selbstführung angewandt werden können? Zu jeder Strategie benennen Sie ein konkretes Beispiel!",
+          "answer": "- **Positive Selbstgespräche**: Bewusstes und regelmäßige Wiederholen von positiven Aussagen über sich selbst \n **Beispiel**: \"Ich bin gut genug, ich kann es, ich bin wertvoll\"\n- **Visualisierung**: Bei dieser Technik stellt man sich lebhaft und detailliert vor, wie man ein gewünschtes Ziel erreicht oder eine schwierige Situation erfolgreich bewältigt. \n**Beispiel**: Eine Führungskraft hat eine wichtige und potenziell konfliktgeladene Verhandlung vor sich. Sie nimmt sich vorab einige Minuten Zeit, um sich vorzustellen, wie die Verhandlung reibungslos verläuft, alle Parteien eine faire Lösung finden und sie selbst ruhig und souverän bleibt.\n- **Reframing (Perspektivenwechsel)**: Bewusstes Umdeuten einer negativen oder herausfordernden Situation \n **Beispiel**: Ein Projekt einer Führungskraft scheitert unerwartet. Anstatt sich in Selbstvorwürfen zu verlieren, reframed sie die Situation, indem sie sich sagt: \"Dieses Scheitern ist eine wertvolle Lerngelegenheit. Ich kann daraus wichtige Erkenntnisse für zukünftige Projekte gewinnen und meine Strategien anpassen.\""
         }
       ]
     }
