@@ -6,12 +6,12 @@
         {
           "question_number": 1,
           "question": "Unterscheiden Sie Selbst- und Zeitmanagement voneinander. Geben Sie je ein Beispiel für eine Methode aus dem jeweiligen Bereich!",
-          "answer": "Selbstmanagement: Die Fähigkeit, die eigene Persönlichkeit, Ziele, Werte und Ressourcen (inkl. Zeit!) zu steuern, um effektiv und zielorientiert zu leben. Es geht um die Gesamtsteuerung deiner Person. \nBeispiel-Methode: SMART-Ziele (Spezifisch, Messbar, Attraktiv, Relevant, Terminiert) – hilft, persönliche Ziele klar zu definieren und zu verfolgen. \n\nZeitmanagement: Die Fähigkeit, die verfügbare Zeit zu planen, zu organisieren und zu kontrollieren, um Aufgaben effizient zu erledigen. Es ist ein Teilbereich des Selbstmanagements. \nBeispiel-Methode: Eisenhower-Matrix (Wichtig/Dringend) – hilft, Aufgaben nach Priorität zu ordnen und zu entscheiden, was wann zu tun ist."
+          "answer": "**Selbstmanagement**: Die Fähigkeit, die eigene Persönlichkeit, Ziele, Werte und Ressourcen (inkl. Zeit!) zu steuern, um effektiv und zielorientiert zu leben. Es geht um die Gesamtsteuerung deiner Person. \nBeispiel-Methode: SMART-Ziele (Spezifisch, Messbar, Attraktiv, Relevant, Terminiert) – hilft, persönliche Ziele klar zu definieren und zu verfolgen.\n\n**Zeitmanagement**: Die Fähigkeit, die verfügbare Zeit zu planen, zu organisieren und zu kontrollieren, um Aufgaben effizient zu erledigen. Es ist ein Teilbereich des Selbstmanagements. \nBeispiel-Methode: Eisenhower-Matrix (Wichtig/Dringend) – hilft, Aufgaben nach Priorität zu ordnen und zu entscheiden, was wann zu tun ist."
         },
         {
           "question_number": 2,
           "question": "Priorisierung nach ABC läuft auf welchen 2 Dimensionen? Was könnte eine D-Aufgabe sein?",
-          "answer": "Wichtig und Dringend: A sofort, B terminieren (nicht dringend), C delegieren (nicht wichtig), D Papierkorb (nicht wichtig und nicht dringend) \n Beispiel für eine D-Aufgabe: \"Social Media überprüfen\""
+          "answer": "**Wichtig** und **Dringend**:\n- A sofort\n- B terminieren (nicht dringend)\n- C delegieren (nicht wichtig)\n- D Papierkorb (nicht wichtig und nicht dringend)\n\nBeispiel für eine D-Aufgabe: \"Social Media überprüfen\""
         },
         {
           "question_number": 3,
@@ -145,13 +145,13 @@
       "qa_pairs": [
         {
           "question_number": 1,
-          "question": "Merkmale von Kommunikation",
-          "answer": "Kommunikation umfasst die verbale, nonverbale und paraverbale Ebene. "
+          "question": "Benennen Sie Merkmale von Kommunikation!",
+          "answer": "1. Kommunikation geschieht (in den meisten Fällen) zwischen mehreren Personen\n2. In einer Kommunikationsbeziehung gibt es Sender und Empfänger, die häufig interaktiv und wechselseitig agieren\n3. Nachrichten bzw. mit Bedeutung versehene Symbole und Zeichen werden zwischen Sender und Empfänger ausgetauscht \n4. Die Nachrichten können über verschiedene Kommunikationsmittel und -kanäle gesendet und empfangen werden \n5. Kommunikation geschieht immer in einem bestimmten Kontext \n6. Sender und Empfänger können sowohl zeitgleich als auch zeitversetzt aktiv sein \n 7. Kommunikation verfolgt ein Ziel  \n\n [Skript Ausschnitt](https://vfhkfsm.eduloop.de/loop/Merkmale_von_Kommunikation)"
         },
         {
           "question_number": 2,
-          "question": "Mündlicher Kommunikation",
-          "answer": "Verbale Ebene: Beschreibung: Die verbale Ebene bezieht sich auf die gesprochene Sprache, also die Worte, die wir verwenden, um eine Nachricht zu übermitteln.  Dies ist die direkte und explizite Art der Kommunikation.  Beispiele: Inhaltliche Aussage: 'Das Projekt muss bis Freitag fertiggestellt sein.'  Frage: 'Können Sie bitte den Bericht bis morgen fertigstellen?'  Nonverbale Ebene: Beschreibung: Die nonverbale Ebene umfasst alle Aspekte der Kommunikation, die nicht durch Worte ausgedrückt werden.  Dazu gehören Körpersprache, Gestik, Mimik, Augenkontakt und andere körperliche Signale.  Beispiele: Körpersprache: Eine Person verschränkt die Arme, was auf eine defensive oder geschlossene Haltung hindeuten kann.  Gestik: Eine Person zeigt mit dem Finger auf jemanden, um Aufmerksamkeit auf diese Person zu lenken.  Paraverbale Ebene: Beschreibung: Die paraverbale Ebene bezieht sich auf die Art und Weise, wie etwas gesagt wird, nicht auf das, was gesagt wird.  Dazu gehören Tonfall, Lautstärke, Sprechgeschwindigkeit, Betonung und Pausen.  Beispiele: Tonfall: Eine Person sagt 'Gut gemacht!'  mit einem sarkastischen Tonfall, was die Bedeutung der Worte verändert.  Lautstärke: Eine Person spricht sehr leise, was Unsicherheit oder Geheimhaltung andeuten kann. "
+          "question": "Unterscheiden Sie bei mündlicher Kommunikation, was meint die verbale, nonverbale, paraverbale Ebene und geben Sie je zwei inhaltliche Beispiele für das Verhalten auf der jeweiligen Ebene!",
+          "answer": "- **verbal**- was gesagt wird. Wortwahl, Satzbau etc. \n- **nonverbal** - Körpersprache. Mimik, Gestik etc. \n- **paraverbal** - Stimme. Stimmhöhe, Tonfall, Lautstärke, Tempo etc."
         },
         {
           "question_number": 3,

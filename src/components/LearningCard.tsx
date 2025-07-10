@@ -1,4 +1,5 @@
 import { useState } from "react";
+import ReactMarkdown from "react-markdown";
 
 interface LearningCardProps {
     question: string;
@@ -11,7 +12,8 @@ export default function LearningCard({ question, answer, questionNumber, topic }
     const [isFlipped, setIsFlipped] = useState(false);
 
 
-    const handleFlip = () => {
+    const handleFlip = (e: React.MouseEvent<HTMLDivElement>) => {
+        e.stopPropagation();
         setIsFlipped(!isFlipped);
     }
 
@@ -23,7 +25,19 @@ export default function LearningCard({ question, answer, questionNumber, topic }
                     <div className="h-full flex flex-col justify-center items-center text-center">
                         <div className="absolute top-2 right-2 text-xs text-info">{topic} #{questionNumber}</div>
                         <h2 className="text-xl font-semibold mb-4 text-base-content">Frage</h2>
-                        <p className="text-base-content overflow-y-auto px-4 mb-auto">{question}</p>
+                        <div className="text-base-content overflow-y-auto px-4 mb-auto">
+                            <div className="max-w-none [&>ul]:list-disc [&>ul]:pl-6 [&>ol]:list-decimal [&>ol]:pl-6 [&>li]:mb-1 [&>a]:text-info [&>a]:underline">
+                                <ReactMarkdown 
+                                    components={{
+                                        a: ({...props}) => (
+                                            <a {...props} target="_blank" rel="noopener noreferrer" className="link-hover text-secondary" onClick={(e) => e.stopPropagation()} />
+                                        )
+                                    }}
+                                >
+                                    {question}
+                                </ReactMarkdown>
+                            </div>
+                        </div>
                         <div className="absolute bottom-2 left-0 w-full text-center text-xs text-info">Klicken für Antwort</div>
                     </div>
                 </div>
@@ -33,7 +47,19 @@ export default function LearningCard({ question, answer, questionNumber, topic }
                     <div className="h-full flex flex-col justify-center items-center text-center">
                         <div className="absolute top-2 right-2 text-xs text-info">{topic} #{questionNumber}</div>
                         <h2 className="text-xl font-semibold mb-4 text-base-content">Antwort</h2>
-                        <p className="text-base-content text-left overflow-y-auto px-4 mb-auto whitespace-pre-line">{answer}</p>
+                        <div className="text-base-content text-left overflow-y-auto px-4 mb-auto">
+                            <div className="max-w-none [&>ul]:list-disc [&>ul]:pl-6 [&>ol]:list-decimal [&>ol]:pl-6 [&>li]:mb-1">
+                                <ReactMarkdown 
+                                    components={{
+                                        a: ({...props}) => (
+                                            <a {...props} target="_blank" rel="noopener noreferrer" className="link text-secondary" onClick={(e) => e.stopPropagation()} />
+                                        )
+                                    }}
+                                >
+                                    {answer}
+                                </ReactMarkdown>
+                            </div>
+                        </div>
                         <div className="absolute bottom-2 left-0 w-full text-center text-xs text-info">Klicken für Frage</div>
                     </div>
                 </div>
