@@ -155,13 +155,13 @@
         },
         {
           "question_number": 3,
-          "question": "Media-Richness-Theory",
-          "answer": "Die Theorie besagt, dass verschiedene Kommunikationsmedien unterschiedlich reichhaltig sind.  Eine wichtige Konsequenz der Media-Richness-Theory ist, dass die Wahl des Kommunikationsmediums einen erheblichen Einfluss auf die Effektivität der Kommunikation hat.  Um effektiv zu kommunizieren, sollten Personen das Kommunikationsmedium basierend auf der Komplexität und Mehrdeutigkeit der Aufgabe wählen. "
+          "question": "Beschreiben Sie die Media-Richness-Theory und leiten Sie eine Konsequenz daraus ab!",
+          "answer": "Theorie unterscheidet **ärmere (Briefe, Plakate)** von **reichhaltigen Medien (Face-to-Face, Video)**, bezieht sich auf Aspekte der **Unmittelbarkeit und Rückmeldung, Anzahl der Kommunikationskanäle**. Bei komplexen, mehrdeutigen Aufgaben sind reichhaltige Medien effektiver. => Weder komplexe Problemlöseprozesse noch Konflikte sollten über schriftliche Medien geklärt werden. Bei geringer Reichhaltigkeit eindeutige Nachricht."
         },
         {
           "question_number": 4,
-          "question": "Formale Kommunikationsstrukturen",
-          "answer": "Formale Kommunikationsstrukturen sind vordefinierte und organisierte Wege, auf denen Informationen innerhalb einer Organisation oder eines Unternehmens ausgetauscht werden.  Diese Strukturen sind in der Regel hierarchisch und folgen festgelegten Regeln und Verfahren, um sicherzustellen, dass Informationen auf eine konsistente und kontrollierte Weise fließen.  Formale Kommunikationsstrukturen sind wichtig, um Klarheit, Effizienz und Ordnung in der Kommunikation zu gewährleisten.  Horizontale Kommunikation: Beschreibung: Informationen fließen zwischen Personen oder Abteilungen auf derselben Hierarchieebene.  Diese Art der Kommunikation fördert die Zusammenarbeit und den Informationsaustausch zwischen Kollegen.  Beispiel: Ein Marketingmanager, der mit einem Produktmanager zusammenarbeitet, um eine neue Marketingkampagne zu entwickeln. "
+          "question": "Beschreiben Sie formale Kommunikationsstrukturen und erklären Sie eine genauer!",
+          "answer": "Formale Kommunikationsstrukturen sind vordefinierte und organisierte Wege, auf denen Informationen innerhalb einer Organisation oder eines Unternehmens ausgetauscht werden.\n **Beispiel**\n der Stern (auch als „Rad“ bezeichnet) ist die zentralste Struktur: Hier kommunizieren alle Beteiligten über eine Stelle, welche alle Kommunikationsbeziehungen damit steuert. Üblicherweise ist dies die Position des/der Vorgesetzten. Daher wird diese kommunikative formale Struktur auch als „Vorgesetztenstruktur“ bezeichnet. \n\n\n ![Bild formale Kommunikationsstrukturen](/formale-ks.png)"
         },
         {
           "question_number": 5,
