@@ -5,7 +5,7 @@ export default function PatchNotesModal() {
   return (
     <>
       <button
-        className='text-xs text-secondary hover:text-secondary-content hover:animate-none animate-bounce transition-all duration-300' cursor-pointer
+        className='text-xs text-secondary hover:text-secondary-content hover:animate-none animate-bounce transition-all duration-300 cursor-pointer'
         onClick={() => setModalVisible(true)}
       >
         Patchnotes!
@@ -14,7 +14,7 @@ export default function PatchNotesModal() {
         <div className='modal-box'>
           <h3 className='font-bold text-lg mb-4'>Version 1.69.420</h3>
 
-          <img src="/rickroll-roll.gif" alt="GOTCHA!" />
+          <img src='/rickroll-roll.gif' alt='GOTCHA!' />
 
           <div className='modal-action'>
             <form method='dialog'>
