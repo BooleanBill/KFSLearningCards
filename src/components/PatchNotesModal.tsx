@@ -12,9 +12,9 @@ export default function PatchNotesModal() {
       </button>
       <dialog id='my_modal_1' className='modal' open={modalVisible}>
         <div className='modal-box'>
-          <h3 className='font-bold text-lg'>Version 1.69.420</h3>
+          <h3 className='font-bold text-lg mb-4'>Version 1.69.420</h3>
 
-          <p>Basti kann mich mal!</p>
+          <img src="/rickroll-roll.gif" alt="GOTCHA!" />
 
           <div className='modal-action'>
             <form method='dialog'>
