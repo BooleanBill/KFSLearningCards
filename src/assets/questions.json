@@ -316,7 +316,7 @@
         {
           "question_number": 11,
           "question": "Ablauf eines Scrums",
-          "answer": "Ein Scrum umfasst die Phasen Planung, Durchführung, Überprüfung und Anpassung (Sprints). "
+          "answer": "Ein Scrum umfasst die Phasen Planung, Durchführung, Überprüfung und Anpassung (Sprints). \nStichworte:\n Product Backlog – Sprint Planung – Daily Scrums – Review – Retrospektive"
         },
         {
           "question_number": 12,
