@@ -10,7 +10,7 @@ export default function PatchNotesModal() {
       >
         Patchnotes!
       </button>
-      <dialog id='my_modal_1' className='modal' open={modalVisible}>
+      <dialog id='patch-notes-modal' className='modal' open={modalVisible}>
         <div className='modal-box'>
           <h3 className='font-bold text-lg mb-4'>Version 1.69.420</h3>
 
