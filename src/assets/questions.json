@@ -175,23 +175,23 @@
         },
         {
           "question_number": 7,
-          "question": "Sender-Empfänger-Modell",
-          "answer": "Das Modell beschreibt den Kommunikationsprozess als Übertragung einer Nachricht vom Sender zum Empfänger, wobei Störungen auftreten können.  Störungen in der Kommunikation: Technische Störungen, Semantische Störungen, Physische Störungen, Psychologische Störungen."
+          "question": "Beschreiben Sie das Sender-Empfänger-Modell nach Shannon und Weaver und erklären Sie, wo nach Modell in der Kommunikation Störungen auftreten können?",
+          "answer": " Ein Sender enkodiert eine Nachricht über einen Kommunikationskanal, diese erreicht den Empfänger und wird von ihm dekodiert. Auf diese Nachricht reagiert wiederum der Empfänger und wird mit seiner Rückmeldung zum Sender. Das Resultat ist ein interaktives „Ping-Pong-Spiel“, \n\n Störungen werden hier im ursprünglichen Verständnis rein technisch verstanden und resultieren aus Problemen in der technischen Verbindung wie z. B. Rauschen oder Verbindungsabbrüche. \n\n ![Grafische Darstellung](/sender_empfaenger.png)"
         },
         {
           "question_number": 8,
-          "question": "Eisbergmodell",
-          "answer": "Das Eisbergmodell symbolisiert, dass ein großer Teil der Kommunikation unter der Oberfläche liegt.  Sichtbare Aspekte der Kommunikation: Verbale Kommunikation, Nonverbale Kommunikation (Körpersprache). Verborgene Aspekte der Kommunikation: Emotionen und Gefühle, Einstellungen und Überzeugungen."
+          "question": "Erklären Sie, was ist mit dem Eisbergmodell im Rahmen von Kommunikation gemeint. Benennen Sie je 2 Aspekte, die uns meist offen zugänglich/ sichtbar sind und 2, die uns verborgen sind?",
+          "answer": "![Eisbergmodell](/eisbergmodell.png)"
         },
         {
           "question_number": 9,
-          "question": "Vorteile von konstruktivem Feedback",
-          "answer": "Konstruktives Feedback fördert das Lernen, verbessert die Leistung und stärkt die Beziehungen. "
+          "question": "Benennen Sie Vorteile von konstruktivem Feedback! ",
+          "answer": "- **Realistischere Selbsteinschätzung**\n- **Ermöglicht Lernen und Entwicklung**\n- **Fördert ehrliches Miteinander**\n- **Unterstützt die Fehlersuche**\n- **Motiviert und aktiviert**"
         },
         {
           "question_number": 10,
-          "question": "Johari-Fenster",
-          "answer": "Das Johari-Fenster ist ein Modell zur Selbstwahrnehmung und zwischenmenschlichen Kommunikation.  Das Johari-Fenster besteht aus vier Bereichen oder 'Fenstern', die verschiedene Aspekte der Persönlichkeit und des Verhaltens einer Person darstellen.  Diese Bereiche basieren auf dem, was die Person über sich selbst weiß und was andere über die Person wissen.  Die vier Bereiche des Johari-Fensters: Öffentliche Person (Arena): Beschreibung: Dieser Bereich umfasst die Aspekte der Persönlichkeit und des Verhaltens, die sowohl der Person selbst als auch anderen bekannt sind.  Dies ist der Bereich der offenen Kommunikation und des gemeinsamen Wissens.  Beispiel: Eine Person weiß, dass sie gut in der Teamarbeit ist, und ihre Kollegen sind sich dieser Fähigkeit ebenfalls bewusst.  Blinder Fleck (Blind Spot): Beschreibung: Dieser Bereich umfasst die Aspekte der Persönlichkeit und des Verhaltens, die anderen bekannt sind, aber der Person selbst nicht bewusst sind.  Dies sind die 'blinden Flecken' in der Selbstwahrnehmung. Beispiel: Eine Person ist sich nicht bewusst, dass sie in Stresssituationen gereizt wirkt, aber ihre Kollegen haben dies bemerkt.  Verborgene Person (Fassade): Beschreibung: Dieser Bereich umfasst die Aspekte der Persönlichkeit und des Verhaltens, die der Person selbst bekannt sind, aber anderen nicht.  Dies sind die privaten oder verborgenen Aspekte der Persönlichkeit. Beispiel: Eine Person hat eine private Angst vor öffentlichen Auftritten, die sie nicht mit anderen teilt.  Unbekannte Person (Unbekanntes): Beschreibung: Dieser Bereich umfasst die Aspekte der Persönlichkeit und des Verhaltens, die weder der Person selbst noch anderen bekannt sind.  Dies sind die unentdeckten oder unbewussten Aspekte der Persönlichkeit. Beispiel: Eine Person hat ein unentdecktes Talent für eine bestimmte Fähigkeit, das weder ihr selbst noch ihren Kollegen bekannt ist.  "
+          "question": "Erläutern Sie das Johari-Fenster! Warum ist es ggf. sinnvoll in der Arbeitswelt den Bereich der öffentlichen Person zu vergrößern? ",
+          "answer": "Das Johari Fenster erklärt was passiert, wenn Feedback empfangen wird. Dabei gibt es vier Bereiche: den **öffentlichen**, den **privaten**, den **blinden Fleck** und den **unbewussten**. \n- **öffentlicher Bereich (A)**: öffentlicher Anteil, der beiden bekannt und für alle transparent ist. Durchsichtig.\n- **blinder Fleck (C)**: Ist Person nicht bewusst, wird aber von außen wahrgenommen. von außen durchsichtig.\n- **unbewusster Bereich (D)**: weder Person noch Umwelt zugänglich, intransparent. tiefliegende Ängste und Wünsche.\n\n Ein größerer transparenter Bereich kann für mehr Verständnis sorgen, aber auch dabei helfen sich selbst zu verbessern. "
         },
         {
           "question_number": 11,
